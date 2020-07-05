@@ -1,3 +1,3 @@
 heroku https://todo87.herokuapp.com
 
-https://todo87.herokuapp.com/datetime/
+http://127.0.0.1:8000/datetime/
